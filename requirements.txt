@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+feedparser
+scikit-learn
+networkx
+matplotlib
+joblib
+flask
