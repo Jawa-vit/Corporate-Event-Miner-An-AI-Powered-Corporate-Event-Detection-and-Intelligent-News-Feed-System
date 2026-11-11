@@ -26,6 +26,9 @@ An end-to-end Natural Language Processing (NLP) and Web Mining pipeline designed
 
 ---
 
+Youtube Demo: https://www.youtube.com/watch?v=azqXibAGV-w
+
+
 ## 🚀 Project Overview
 
 Financial news is voluminous, fast-moving, and predominantly unstructured. Market analysts, quantitative traders, and regulatory auditors require real-time visibility into major corporate lifecycle events such as mergers, acquisitions, divestitures, leadership reorganizations, and public offerings.
